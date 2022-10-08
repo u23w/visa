@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+.oo{
+  color: #FFEA00;
+  background: linear-gradient(#FF0017,#3700FF);
+  width: 30px;
+  height: 50px;
+}
+fieldset{
+  color: #00C3FF;
+  border-radius: 6px;
+  border-color: #00FF79;
+  
+}
+.gi{
+  width: 350px;
+}
+.in{
+  text-decoration: none;
+  color: red;
+}
+font{
+  text-decoration: none;
+}
